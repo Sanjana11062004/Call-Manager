@@ -1,0 +1,51 @@
+#root {
+  text-align: none;
+}
+body {
+  display: block;
+  margin: 0;
+  /* display: flex; */
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+}
+.header-main {
+  border: 2px solid blue;
+  display: flex;
+  border-radius: 30px;
+  width: 90%;
+  height: 10%;
+  margin: 0 auto;
+  padding: 10px 10px;
+  padding-top: 16px;
+  justify-content: space-between;
+}
+.contact-main {
+  margin: 0 20px;
+}
+.contact-container {
+  border: 2px solid blue;
+  border-radius: 30px;
+  display: block;
+  padding: 10px 10px;
+}
+.contact-item-1 {
+  display: flex;
+  gap: 40px;
+  margin: 5px auto;
+}
+.contact-item-1 p,
+h2 {
+  margin: 0;
+}
+.container-item-2 {
+  display: flex;
+  gap: 60px;
+  padding: 10px;
+  justify-content: center;
+}
+.display-onhover{
+    display: none;
+}
+
+
