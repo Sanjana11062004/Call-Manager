@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "44",
+      "firstname": "Murugesan",
+      "lastname": "",
+      "phone": "2345678901",
+      "email": "mur@gmail.com"
+    },
+    {
+      "id": "1",
+      "firstname": "Sanjana",
+      "lastname": "M",
+      "phone": "3456789",
+      "email": "sanjanamurugesan06@gmail.com"
+    },
+    {
+      "id": "30",
+      "firstname": "Latha",
+      "lastname": "",
+      "phone": "03456789023",
+      "email": "latha@gmail.com"
+    },
+    {
+      "id": "23",
+      "firstname": "rohot",
+      "lastname": "M",
+      "phone": "07995928461",
+      "email": "727621bcs081@mcet.in"
+    }
+  ]
+}

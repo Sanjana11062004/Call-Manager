@@ -21,7 +21,7 @@ body {
   justify-content: space-between;
 }
 .contact-main {
-  margin: 0 20px;
+  margin: 20px 20px;
 }
 .contact-container {
   border: 2px solid blue;
@@ -93,3 +93,4 @@ h2 {
   border-radius: 20px;
   text-align: center;
 }
+
